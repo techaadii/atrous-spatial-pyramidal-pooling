@@ -53,7 +53,7 @@ Reshape → (B, D, 16, 16)
 ## Usage
 
 ```python
-from aspp import AtrousConvolutionSegHead
+from ASPPModule import AtrousConvolutionSegHead
 
 # tokens from any ViT backbone
 # shape: (B, N, D)  e.g. (8, 256, 384) for ViT-Small with patch 16
