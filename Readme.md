@@ -99,6 +99,4 @@ torch >= 2.0
 
 ---
 
-## License
 
-MIT
